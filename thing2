@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chad</title>
+</head>
+<h1>idk bruh this test so dont mind the problems</h1>
+<h2><s>so and this is like yeah very bad xD im learning lol</s></h2>
+<h3>nice lol</h3>
+<h1>title two yay</h1>
+<h2>abcdefghijklmnopqrstuvwxyz</h2>
+<h4>noice lel</h4>
+<h1>h1</h1>
+<h2>h2</h2>
+<h3>h3</h3>
+<h100>h100</h100>
+<h3>seriously thats an h100</h3>
+<img src="https://img.favpng.com/3/11/6/diep-io-mother-ship-png-favpng-UyiHdSjwbvQW3M7CgszswWGa2.jpg" alt="mothership">
+<h3>the alt was "mothership"</h3>
+<button type="button" onclick="alert('Ha it works')">Dont do it...</button>
+<script>
+
+window.onload = (event) => {
+            console.log('page is fully loaded');
+            alert(1)
+        };
+</script>
+
+</html>
